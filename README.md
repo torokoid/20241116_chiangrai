@@ -116,11 +116,11 @@ p.note { display: none; }
 
 
 <!--QRコードの挿入例-->
-<p align="left"> <img src="QR_2024Nov16.png" alt="アクセス用QRコード" width="100">アクセス用QRコード</p>
+<p align="left"> <img src="QR_20241116.png" alt="アクセス用QRコード" width="100">アクセス用QRコード</p>
 <p align="right"><marquee direction="left" scrollamount="20" width="30%">(^_^)/~S,Hada</marquee></p>
 
 <!--流れ文字の挿入例-->
-<h1><span class="yellow"><marquee behavior="left">!!! 2024/11/23 、チェンライ２日目は, ショッピングセンターで買い物、午後は親戚のお葬式 !!!</marquee></span></h1>
+<h1><span class="yellow"><marquee behavior="left">!!! 2567(2024)/11/16 、クンメーのお葬式 !!!</marquee></span></h1>
 
 
 
