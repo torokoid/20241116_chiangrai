@@ -71,7 +71,7 @@ left:0;
 z-index:-1;
 width:100%;
 height:100vh;
-background:url(https://torokoid.github.io/20241123_chiangrai/20241123_016.JPG) center/cover no-repeat;
+background:url(https://torokoid.github.io/20241116_chiangrai/20241116_045.JPG) center/cover no-repeat;
 -webkit-background-size:cover;/*Android4*/
 }
 
@@ -122,17 +122,103 @@ p.note { display: none; }
 <!--流れ文字の挿入例-->
 <h1><span class="yellow"><marquee behavior="left">!!! 2024/11/23 、チェンライ２日目は, ショッピングセンターで買い物、午後は親戚のお葬式 !!!</marquee></span></h1>
 
-<!--上段にパンクズリストを入れる時の例-->
 
-<div style="background-color:rgb(255,255,255,0.5);">
-<p class="topicpath"><a href="https://torokoid.github.io/20241120_bangkok/" target="_blank">2024年11月20日、宇都宮からバンコクに移動</a>><a href="https://torokoid.github.io/20241121_bangkok/" target="_blank">11月21日バンコク市内をうろうろ</a>><a href="https://torokoid.github.io/20241122/" target="_blank">11月22日バンコク市内をうろついてからChaing Raiに移動</a>><a>11月23日チェンライのショッピンセンターでお買い物して、午後は親戚のお葬式</a></p></div>
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 <!--ここから下が、本体部分-->
 
 <h2><span class="yellow">地方都市のショッピングセンターでお買い物〜</span></h2>
-
+<a href="20241116_001.JPG" target="_blank"><img src="20241116_001.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241116_002.JPG" target="_blank"><img src="20241116_002.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241116_003.JPG" target="_blank"><img src="20241116_003.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241116_004.JPG" target="_blank"><img src="20241116_004.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241116_005.JPG" target="_blank"><img src="20241116_005.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241116_006.JPG" target="_blank"><img src="20241116_006.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241116_007.JPG" target="_blank"><img src="20241116_007.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241116_008.JPG" target="_blank"><img src="20241116_008.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241116_009.JPG" target="_blank"><img src="20241116_009.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241116_010.JPG" target="_blank"><img src="20241116_010.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241116_011.JPG" target="_blank"><img src="20241116_011.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241116_012.JPG" target="_blank"><img src="20241116_012.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241116_013.JPG" target="_blank"><img src="20241116_013.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241116_014.JPG" target="_blank"><img src="20241116_014.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241116_015.JPG" target="_blank"><img src="20241116_015.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241116_016.JPG" target="_blank"><img src="20241116_016.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241116_017.JPG" target="_blank"><img src="20241116_017.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241116_018.JPG" target="_blank"><img src="20241116_018.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241116_019.JPG" target="_blank"><img src="20241116_019.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241116_020.JPG" target="_blank"><img src="20241116_020.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241116_021.JPG" target="_blank"><img src="20241116_021.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241116_022.JPG" target="_blank"><img src="20241116_022.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241116_023.JPG" target="_blank"><img src="20241116_023.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241116_024.JPG" target="_blank"><img src="20241116_024.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241116_025.JPG" target="_blank"><img src="20241116_025.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241116_026.JPG" target="_blank"><img src="20241116_026.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241116_027.JPG" target="_blank"><img src="20241116_027.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241116_028.JPG" target="_blank"><img src="20241116_028.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241116_029.JPG" target="_blank"><img src="20241116_029.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241116_030.JPG" target="_blank"><img src="20241116_030.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241116_031.JPG" target="_blank"><img src="20241116_031.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241116_032.JPG" target="_blank"><img src="20241116_032.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241116_033.JPG" target="_blank"><img src="20241116_033.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241116_034.JPG" target="_blank"><img src="20241116_034.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241116_035.JPG" target="_blank"><img src="20241116_035.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241116_036.JPG" target="_blank"><img src="20241116_036.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241116_037.JPG" target="_blank"><img src="20241116_037.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241116_038.JPG" target="_blank"><img src="20241116_038.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241116_039.JPG" target="_blank"><img src="20241116_039.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241116_040.JPG" target="_blank"><img src="20241116_040.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241116_041.JPG" target="_blank"><img src="20241116_041.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241116_042.JPG" target="_blank"><img src="20241116_042.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241116_043.JPG" target="_blank"><img src="20241116_043.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241116_044.JPG" target="_blank"><img src="20241116_044.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241116_045.JPG" target="_blank"><img src="20241116_045.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241116_046.JPG" target="_blank"><img src="20241116_046.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241116_047.JPG" target="_blank"><img src="20241116_047.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241116_048.JPG" target="_blank"><img src="20241116_048.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241116_049.JPG" target="_blank"><img src="20241116_049.JPG" alt="サンプル画像" width="900" /></a>
+<!--
+<a href="20241116_050.JPG" target="_blank"><img src="20241116_050.JPG" alt="サンプル画像" width="900" /></a>-->
+<a href="20241116_051.JPG" target="_blank"><img src="20241116_051.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241116_052.JPG" target="_blank"><img src="20241116_052.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241116_053.JPG" target="_blank"><img src="20241116_053.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241116_054.JPG" target="_blank"><img src="20241116_054.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241116_055.JPG" target="_blank"><img src="20241116_055.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241116_056.JPG" target="_blank"><img src="20241116_056.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241116_057.JPG" target="_blank"><img src="20241116_057.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241116_058.JPG" target="_blank"><img src="20241116_058.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241116_059.JPG" target="_blank"><img src="20241116_059.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241116_060.JPG" target="_blank"><img src="20241116_060.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241116_061.JPG" target="_blank"><img src="20241116_061.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241116_062.JPG" target="_blank"><img src="20241116_062.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241116_063.JPG" target="_blank"><img src="20241116_063.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241116_064.JPG" target="_blank"><img src="20241116_064.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241116_065.JPG" target="_blank"><img src="20241116_065.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241116_066.JPG" target="_blank"><img src="20241116_066.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241116_067.JPG" target="_blank"><img src="20241116_067.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241116_068.JPG" target="_blank"><img src="20241116_068.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241116_069.JPG" target="_blank"><img src="20241116_069.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241116_070.JPG" target="_blank"><img src="20241116_070.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241116_071.JPG" target="_blank"><img src="20241116_071.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241116_072.JPG" target="_blank"><img src="20241116_072.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241116_073.JPG" target="_blank"><img src="20241116_073.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241116_074.JPG" target="_blank"><img src="20241116_074.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241116_075.JPG" target="_blank"><img src="20241116_075.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241116_076.JPG" target="_blank"><img src="20241116_076.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241116_077.JPG" target="_blank"><img src="20241116_077.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241116_078.JPG" target="_blank"><img src="20241116_078.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241116_079.JPG" target="_blank"><img src="20241116_079.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241116_080.JPG" target="_blank"><img src="20241116_080.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241116_081.JPG" target="_blank"><img src="20241116_081.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241116_082.JPG" target="_blank"><img src="20241116_082.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241116_083.JPG" target="_blank"><img src="20241116_083.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241116_084.JPG" target="_blank"><img src="20241116_084.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241116_085.JPG" target="_blank"><img src="20241116_085.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241116_086.JPG" target="_blank"><img src="20241116_086.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241116_087.JPG" target="_blank"><img src="20241116_087.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241116_088.JPG" target="_blank"><img src="20241116_088.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241116_089.JPG" target="_blank"><img src="20241116_089.JPG" alt="サンプル画像" width="900" /></a>
 
 <br><br>
 
