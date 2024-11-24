@@ -219,6 +219,8 @@ p.note { display: none; }
 <a href="20241116_088.JPG" target="_blank"><img src="20241116_088.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241116_089.JPG" target="_blank"><img src="20241116_089.JPG" alt="サンプル画像" width="900" /></a>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4RGlLJZpYjA?si=7aMYVQBM0PcK4k6T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 <br><br>
 
 
