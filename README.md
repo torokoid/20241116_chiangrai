@@ -127,7 +127,7 @@ p.note { display: none; }
 
 <!--ここから下が、本体部分-->
 
-<h2><span class="yellow">地方都市のショッピングセンターでお買い物〜</span></h2>
+<h2><span class="yellow">ChiengRaiで義母のお葬式</span></h2>
 <a href="20241116_001.JPG" target="_blank"><img src="20241116_001.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241116_002.JPG" target="_blank"><img src="20241116_002.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241116_003.JPG" target="_blank"><img src="20241116_003.JPG" alt="サンプル画像" width="900" /></a>
