@@ -228,12 +228,12 @@ p.note { display: none; }
 <iframe width="560" height="315" src="https://www.youtube.com/embed/THTCgnBAdTI?si=l8U20pfmdU57VVNM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YEPz-Ye-loQ?si=rZTLkfPYbbHaY9Zc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+<br>
 <h2><span class="yellow">Short VDO</span></h2>
 <h2><span class="yellow">
-<a href="https://youtube.com/shorts/oTNuacQCn68" target="_blank">VDO_1</a>
-<a href="https://youtube.com/shorts/MrLMve4Wsi4" target="_blank">VDO_2</a>
-<a href="https://youtube.com/shorts/2Ar9TLxTYNM" target="_blank">VDO_3</a>
+<a href="https://youtube.com/shorts/oTNuacQCn68" target="_blank">VDO_1</a><br>
+<a href="https://youtube.com/shorts/MrLMve4Wsi4" target="_blank">VDO_2</a><br>
+<a href="https://youtube.com/shorts/2Ar9TLxTYNM" target="_blank">VDO_3</a><br>
 <a href="https://youtube.com/shorts/GbfGf2w1spQ" target="_blank">VDO_4</a>
 </span></h2>
 
