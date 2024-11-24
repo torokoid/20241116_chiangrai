@@ -221,6 +221,19 @@ p.note { display: none; }
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4RGlLJZpYjA?si=7aMYVQBM0PcK4k6T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_s-UfXnh1nk?si=TBYcpHLL2eUsowE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/THTCgnBAdTI?si=l8U20pfmdU57VVNM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YEPz-Ye-loQ?si=rZTLkfPYbbHaY9Zc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<h2><span class="yellow">Short VDO</span></h2>
+
+<a href="https://youtube.com/shorts/oTNuacQCn68" target="_blank">VDO_1</a>
+<a href="https://youtube.com/shorts/MrLMve4Wsi4" target="_blank">VDO_2</a>
+<a href="https://youtube.com/shorts/2Ar9TLxTYNM" target="_blank">VDO_3</a>
+<a href="https://youtube.com/shorts/GbfGf2w1spQ" target="_blank">VDO_4</a>
+
 <br><br>
 
 
