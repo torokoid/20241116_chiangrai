@@ -242,6 +242,13 @@ p.note { display: none; }
 
 <br><br>
 
+<a href="20241116_092.JPG" target="_blank"><img src="20241116_092.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241116_093.JPG" target="_blank"><img src="20241116_093.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241116_094.JPG" target="_blank"><img src="20241116_094.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241116_095.JPG" target="_blank"><img src="20241116_095.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241116_096.JPG" target="_blank"><img src="20241116_096.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241116_097.JPG" target="_blank"><img src="20241116_097.JPG" alt="サンプル画像" width="900" /></a>
+
 
 
 
