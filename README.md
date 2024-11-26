@@ -249,6 +249,14 @@ p.note { display: none; }
 <a href="20241116_096.JPG" target="_blank"><img src="20241116_096.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241116_097.JPG" target="_blank"><img src="20241116_097.JPG" alt="サンプル画像" width="900" /></a>
 
+<br>
+<h2><span class="yellow">Short VDO</span></h2>
+<h2><span class="yellow">
+<a href="https://youtu.be/AKsTClXloww" target="_blank">VDO_5</a><br>
+<a href="https://youtu.be/VZjDhKpMJNg" target="_blank">VDO_6</a><br>
+<a href="https://youtu.be/SDknYk-AwmU" target="_blank">VDO_7</a>
+</span></h2>
+
 
 
 
